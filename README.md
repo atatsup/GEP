@@ -1,4 +1,15 @@
 # GEP
+Editor di foto online( web-app)
+
+1. Ricreazione di filtri( mascherature di parametri modificabili).
+2. Apportare modifiche sugli stessi parametri.
+3. Permettere di fare l'upload di immagini da locale.
+4. Autentificazione tramite email e password.
+5. Implementazione di funzioni avanzate a pagamento.
+6. Pagamenti online con verifica del metodo di pagamento.
+7. Tipi di file accettabili dal sistema?
+8. Salvare il file modificato duplicandolo in locale
+   
 User story
 AUTENTIFICAZIONE:
 -Come utente, voglio poter creare un account tramite la mia email personale
